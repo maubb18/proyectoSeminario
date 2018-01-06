@@ -1,0 +1,40 @@
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\App1.dll
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\App1.pdb
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mayte14\source\repos\App1\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\mayte14\source\repos\App1\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\mayte14\source\repos\App1\App1\App1\obj\Debug\App1.MainPage.xaml.g.cs
+C:\Users\mayte14\source\repos\App1\App1\App1\obj\Debug\App1.App.xaml.g.cs
+C:\Users\mayte14\source\repos\App1\App1\App1\obj\Debug\App1.dll
+C:\Users\mayte14\source\repos\App1\App1\App1\obj\Debug\App1.pdb
+C:\Users\mayte14\source\repos\App1\App1\App1\obj\Debug\App1.pagSeleccion.xaml.g.cs
+C:\Users\mayte14\source\repos\App1\App1\App1\obj\Debug\App1.PAGINAS.pagDos.xaml.g.cs
+C:\Users\mayte14\source\repos\App1\App1\App1\obj\Debug\App1.PAGINAS.pagTres.xaml.g.cs
+C:\Users\mayte14\source\repos\App1\App1\App1\bin\Debug\SQLite.Net.dll
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\bin\Debug\App1.dll
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\bin\Debug\App1.pdb
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\bin\Debug\SQLite.Net.dll
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\obj\Debug\App1.MainPage.xaml.g.cs
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\obj\Debug\App1.App.xaml.g.cs
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\obj\Debug\App1.pagSeleccion.xaml.g.cs
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\obj\Debug\App1.PAGINAS.pagDos.xaml.g.cs
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\obj\Debug\App1.PAGINAS.pagTres.xaml.g.cs
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\obj\Debug\App1.PAGINAS.pagCuatro.xaml.g.cs
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\obj\Debug\App1.dll
+C:\Users\mayte14\source\repos\App1 - copia\App1\App1\obj\Debug\App1.pdb

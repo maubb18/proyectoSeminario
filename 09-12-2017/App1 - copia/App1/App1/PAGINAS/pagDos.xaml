@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.PAGINAS.pagDos"
+             Title="SELECCIONE " Style="ARIAL">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Selecciona las dimensiones de la llanta a comprar!!!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Picker x:Name="listado"
+                     BackgroundColor="Aquamarine"
+                ></Picker>
+
+            <Label Text="Seleccione medidas"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Picker x:Name="listado2"
+                    BackgroundColor="YellowGreen"
+                ></Picker>
+
+            <Label x:Name="lblTexto"
+                  VerticalOptions="CenterAndExpand"></Label>
+            <Button x:Name="btnResultados"
+                Text="RESULTADOS"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                  BorderRadius="10"
+                    BackgroundColor="Aquamarine"
+                ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

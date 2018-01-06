@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.PAGINAS.pagTres"
+             Title="COMPARACIÓN">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text=">Llanta actual!!!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            
+            <Label Text=">Llanta a comprar!!!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <Button x:Name="btnVelocimetro"
+                    Text="Velocìmetro"
+                    BorderRadius="10"
+                    BackgroundColor="Aquamarine"></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

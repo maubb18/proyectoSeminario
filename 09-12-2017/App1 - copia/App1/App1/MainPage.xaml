@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App1"
+             x:Class="App1.MainPage"
+             Title="APP DE LLANTAS"
+             >
+    <ContentPage.Content>
+        <StackLayout
+            BackgroundColor="LightCyan"
+            Padding="10">
+
+            <Image HeightRequest="250"
+                   WidthRequest="250"
+                Source="http://www.sitsa.com.mx/img/familias/logotipo_llantas_llantas-mueve-tierra.png"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+              
+                   ></Image>
+            
+            <Label Text="Bienvenido a la app que te ayudara a saber si la llanta a cambiar es correcta para tu auto!!"
+                VerticalOptions="Center" 
+                HorizontalOptions="CenterAndExpand" />
+
+
+            <Image  x:Name="imagen1"
+                Source="/llanta.jpg"
+                   
+                />
+            
+
+            <Button x:Name="btnIngresar"
+                    Text="Ingresar"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    BorderRadius="20"
+                    BackgroundColor="Aquamarine"
+                    FontSize="Medium"
+                    BorderColor="Blue"
+                    >
+                
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.pagSeleccion"
+             Title="SELLECIÓN DE LLANTAS">
+    <ContentPage.Content>
+        <StackLayout Padding="2" HorizontalOptions="Center">
+            <Label Text=">> Medidas de la llanta actual"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Picker x:Name="listado1" Title="Ancho de llanta" SelectedIndexChanged="listado1_SelectedIndexChanged"
+                    BackgroundColor="LightCoral"
+                ></Picker>
+            <Picker x:Name="listado2" Title="Alto/Perfil de la llanta" IsEnabled="False" SelectedIndexChanged="listado2_SelectedIndexChanged"
+                    BackgroundColor="LightCoral"
+                ></Picker>
+            <Picker x:Name="listado5" Title="Rin/Aro de la llanta" IsEnabled="False" SelectedIndexChanged="listado5_SelectedIndexChanged"
+                    BackgroundColor="LightCoral"
+             ></Picker>
+            <Label x:Name="lblLlanta1"></Label>
+                <Label Text=">> Llanta a comprar"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Picker x:Name="listado3" Title="Ancho de llanta" SelectedIndexChanged="listado3_SelectedIndexChanged"
+                    BackgroundColor="LightSkyBlue"
+                ></Picker>
+            <Picker x:Name="listado4" Title="Alto de llanta" IsEnabled="False" SelectedIndexChanged="listado4_SelectedIndexChanged"
+                    BackgroundColor="LightSkyBlue"
+             ></Picker>
+            <Picker x:Name="listado6" Title="Rin/Aro de la llanta" IsEnabled="False" SelectedIndexChanged="listado6_SelectedIndexChanged"
+                    BackgroundColor="LightSkyBlue"
+            ></Picker>
+            <Label x:Name="lblLlanta2"></Label>
+            <Button x:Name="btnResultado"
+                    Text="CALCULAR!!"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="CenterAndExpand"
+                    BorderRadius="8"
+                    ></Button>
+            <Label x:Name="lblResultado" TextColor="DarkGreen" FontAttributes="Bold" HorizontalOptions="Center"></Label>
+            <Button x:Name="btnSeguir"
+                    Text="Siguiente"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="CenterAndExpand"
+                    BorderRadius="8"
+                    ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
